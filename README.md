@@ -1,4 +1,4 @@
-## fUNCIONAMENTO DE UMA TV 
+## FUNCIONAMENTO DE UMA TV 
 
 Função de ligar e desligar;
 Troca de canal;
